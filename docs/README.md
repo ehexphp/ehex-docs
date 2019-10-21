@@ -1,5 +1,5 @@
 # Welcome to Ehex (ex 1.5) 
-Powerful and Friendly Php Framework, Created with many features. Just as the name implies.
+Powerful and Friendly Php Framework, Created with many features. 
 > Read Full Documentation now  [Documentation](https://ehexphp.github.io/ehex-docs/#/)  and Check out  [Api Documentation](https://ehexphp.github.io/ehex-docs-api/ ':include :type=iframe width=100% height=800px')
 
 ## Ehex or Simply EX.
