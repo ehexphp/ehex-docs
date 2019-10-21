@@ -47,26 +47,29 @@
   <script>
     window.$docsify = {
       name: 'Ehex',
-      repo: 'https://github.com/ehex/ehex-framework',
+      repo: 'https://github.com/ehexphp/ehex-framework',
       coverpage: true,
       loadSidebar: true,
       subMaxLevel: 2,
       //search: 'auto', // default
       ga: 'UA-131446983-1',
-        disqus: 'xamtax-ehex',
-        search: {
-            noData: {
-                // '/de-de/': 'Keine Ergebnisse!',
-                // '/zh-cn/': '没有结果!',
-                '/': 'No results!'
-            },
-            paths: 'auto',
-            placeholder: {
-                // '/de-de/': 'Suche',
-                // '/zh-cn/': '搜索',
-                '/': 'Search'
-            }
-        },
+      disqus: 'ehex',
+      search: {
+          noData: {
+              // '/de-de/': 'Keine Ergebnisse!',
+              // '/zh-cn/': '没有结果!',
+              '/': 'No results!'
+          },
+          paths: 'auto',
+          placeholder: {
+              // '/de-de/': 'Suche',
+              // '/zh-cn/': '搜索',
+              '/': 'Search'
+          }
+      },
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/ehexphp/ehex-docs/tree/master/docs')
+      ]
 
 
     }
@@ -82,11 +85,7 @@
 <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 <script src="//unpkg.com/docsify-copy-code"></script>
 <script src="//unpkg.com/docsify/lib/plugins/disqus.min.js"></script>
-<script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
-<script>
-    // EditOnGithubPlugin.create(docBase, docEditBase, title);
-</script>
-
+<script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
 
 
 </body>

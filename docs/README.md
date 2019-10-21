@@ -66,7 +66,7 @@ We would have love to make it work on lower version as well, but we strongly adv
 > See Quick Start [Starting a new Project](Starting%20a%20new%20Project.md)
 
 ## License
-> Please see the license agreement. [License](https://github.com/ehex/ehex-framework/blob/master/LICENSE)
+> Please see the license agreement. [License](https://github.com/ehexphp/ehex-framework/blob/master/LICENSE)
 
 ## Resources
 - [User Guide](/) - Not Available Yet
