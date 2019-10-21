@@ -6,7 +6,7 @@ Ehex (ex) cheat sheet. This is a quick reference to day-to-day use of Ehex.
 
 <!--
     ## Manual SQL Property Set
-    https://ehex.github.io/ehex-docs/#/Model%20and%20Database?id=manual-sql-property-set 
+    https://ehexphp.github.io/ehex-docs/#/Model%20and%20Database?id=manual-sql-property-set 
     for more information
 -->
 
@@ -186,7 +186,7 @@ class User extends Model1 implements Model1ActionInterface {
 ```
 
 For More information
-[Read more on Dashboard Interface](https://ehex.github.io/ehex-docs/#/Dashboard)
+[Read more on Dashboard Interface](https://ehexphp.github.io/ehex-docs/#/Dashboard)
 [Read more on Xcrud](http://xcrud.com/documentation/)
 
 
@@ -218,7 +218,7 @@ class Blog extends Model1 implements Model1ActionInterface{
         ];
     }
 ```
-[Read more on Dashboard Interface](https://ehex.github.io/ehex-docs/#/Dashboard) Also Checkout [Route System](Route.md)
+[Read more on Dashboard Interface](https://ehexphp.github.io/ehex-docs/#/Dashboard) Also Checkout [Route System](Route.md)
 
 
 
@@ -278,7 +278,7 @@ class Product extends Model1 implements Model1ActionInterface{
 
 
 ```
-[Read more on Dashboard Interface](https://ehex.github.io/ehex-docs/#/Dashboard) Also Checkout [Route System](Route.md)
+[Read more on Dashboard Interface](https://ehexphp.github.io/ehex-docs/#/Dashboard) Also Checkout [Route System](Route.md)
 
 
 
@@ -324,7 +324,7 @@ class Product extends Model1 implements Model1ActionInterface{
     }
 
 ```
-[Read more on Dashboard Interface](https://ehex.github.io/ehex-docs/#/Dashboard) Also Checkout [Api and Controller Call](Api%20and%20Controller%20Call.md)
+[Read more on Dashboard Interface](https://ehexphp.github.io/ehex-docs/#/Dashboard) Also Checkout [Api and Controller Call](Api%20and%20Controller%20Call.md)
 
 
 ##Quick Login with Ajax
@@ -413,5 +413,5 @@ Using ```Validateor1::validate($request = null, $rules = [], $renameField = [], 
     )
 
 ```
-[Read more on Form Validation](https://ehex.github.io/ehex-docs/#/Form)
-[Read more on Form Validation](https://ehex.github.io/ehex-docs/#/BasicUsage#Quick%20Form%20validation)
+[Read more on Form Validation](https://ehexphp.github.io/ehex-docs/#/Form)
+[Read more on Form Validation](https://ehexphp.github.io/ehex-docs/#/BasicUsage#Quick%20Form%20validation)
