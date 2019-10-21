@@ -10,7 +10,7 @@ Ehex (ex) cheat sheet. This is a quick reference to day-to-day use of Ehex.
     for more information
 -->
 
-##Model Manage
+## Model Manage
 Manage Method Must return object with render method. Otherwise return null.
 Copy and Modify the manage method data to suite your need.
 Remember to implements Model1ActionInterface if you want it to appear in the dashboard menu
@@ -228,7 +228,7 @@ class Blog extends Model1 implements Model1ActionInterface{
 
 
 
-##Model Route and Menu
+## Model Route and Menu
 The OnRoute and Menu Works Together.
 You can create model individually and implement it later just by dumbing it in your project. It appears on your dashboard automatically.
 Remember to implements Model1ActionInterface.
@@ -284,7 +284,7 @@ class Product extends Model1 implements Model1ActionInterface{
 
 
 
-##Model Process Save
+## Model Process Save
 Though, It is not a must to use processSave($id) method to update your model,
 But it's just serve as a standard for updating model to Us. For Instance, Default User Model uses more of this, e.g processLogin(), processRegister(), 
 Remember to implements Model1ActionInterface.
@@ -327,7 +327,7 @@ class Product extends Model1 implements Model1ActionInterface{
 [Read more on Dashboard Interface](https://ehexphp.github.io/ehex-docs/#/Dashboard) Also Checkout [Api and Controller Call](Api%20and%20Controller%20Call.md)
 
 
-##Quick Login with Ajax
+## Quick Login with Ajax
 your login.blade.php
 ```html
      {!! HtmlForm1::open("User@processLogin()", ['class'=>'login', 'id'=>'login_form']) !!}
@@ -363,7 +363,7 @@ and process method ```User@processLogin()``` in User model your User.php
 
 ```
  
-##Quick Form validation
+## Quick Form validation
 Using ```Validateor1::validate($request = null, $rules = [], $renameField = [], $messages = [], $redirect = false)```
 ```php
     /**
