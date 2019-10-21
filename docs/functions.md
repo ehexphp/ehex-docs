@@ -1,5 +1,5 @@
 # Functions
-> See [Check full api function](https://ehex.github.io/ehex-docs/api/docs/index.html ':include :type=iframe width=100% height=800px')
+> See [Check full api function](https://github.com/ehexphp/ehex-docs/api/docs/index.html ':include :type=iframe width=100% height=800px')
           
 ## Functions
 Ehex Functions
@@ -158,4 +158,4 @@ Ehex Functions
     
 
 
-> Also See [Directory Structure Function](https://ehex.github.io/ehex-docs/Directory%20Structure%20and%20Function.md ':include')
+> Also See [Directory Structure Function](https://github.com/ehexphp/ehex-docs/Directory%20Structure%20and%20Function.md ':include')

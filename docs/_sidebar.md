@@ -54,7 +54,7 @@
     [Basic Usage](BasicUsage.md)
     
 ---
-- [Check full api class](https://ehex.github.io/ehex-docs/api/docs/class-EasyGenerator.html)
+- [Check full api class](https://github.com/ehexphp/ehex-docs/api/docs/class-EasyGenerator.html)
 - [Donate/Help Us Grow](https://www.patreon.com/samtax01)
 - [Creator e-Mail](mailto:samsoniyanu@hotmail.com)
 

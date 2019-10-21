@@ -1,6 +1,6 @@
 # Welcome to Ehex (ex 1.5) 
 Powerful and Friendly Php Framework, Created with many features. Just as the name implies.
-> Read Full Documentation now  [Documentation](https://ehex.github.io/ehex-docs)  and Check out  [Api Documentation](https://ehex.github.io/ehex-docs/api/docs/index.html ':include :type=iframe width=100% height=800px')
+> Read Full Documentation now  [Documentation](https://ehexphp.github.io/ehex-docs/#/)  and Check out  [Api Documentation](https://ehexphp.github.io/ehex-docs-api/ ':include :type=iframe width=100% height=800px')
 
 ## Ehex or Simply EX.
 is an Application Development Framework - a toolkit - for people who build web sites using PHP. Its goal is to enable you to develop projects much faster than you could if you were writing code from scratch, by providing a rich set of libraries for commonly needed tasks, as well as a simple interface and logical structure to access these libraries. EX lets you creatively focus on your project by minimizing the amount of code needed for a given task.
@@ -63,7 +63,7 @@ We would have love to make it work on lower version as well, but we strongly adv
 1. And More...
 
 ## Installation
-> See Quick Start [Starting a new Project](Starting%20a%20new%20Project.md)
+> See Quick Start [Starting a new Project](https://ehexphp.github.io/ehex-docs/#/Starting%20a%20new%20Project)
 
 ## License
 > Please see the license agreement. [License](https://github.com/ehexphp/ehex-framework/blob/master/LICENSE)
@@ -83,7 +83,7 @@ The Ehex creator (Samson Iyanu) would like to thank all the Ehex contributors an
 
 
 ## Documentation
-> Read Full Documentation now  [Documentation](https://ehex.github.io/ehex-docs)  and Check out  [Api Documentation](https://ehex.github.io/ehex-docs/api/docs/index.html ':include :type=iframe width=100% height=800px')
+> Read Full Documentation now  [Documentation](https://ehexphp.github.io/ehex-docs/#/)  and Check out  [Api Documentation](https://ehexphp.github.io/ehex-docs-api/ ':include :type=iframe width=100% height=800px')
 
 
 ## Donate
